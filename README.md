@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @russellms
+- 👀 I’m interested in Data Engineering and Machine Leanring
+- 🌱 I’m currently learning best practices for data engineering 
+- 💞️ I’m looking to collaborate on any topics relevant to data engineering and machine learning
